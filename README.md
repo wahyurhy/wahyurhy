@@ -21,7 +21,7 @@
   - [Memulai Pemrograman Dengan Kotlin](https://www.dicoding.com/certificates/1RXYYO2V9XVM)
   - [Cloud Practitioner Essentials (Belajar Dasar AWS Cloud)](https://www.dicoding.com/certificates/2VX3NLVO3XYQ)
   - [DevOps Praktis dengan IBM Cloud (Practical DevOps with IBM Cloud)](https://www.dicoding.com/certificates/1OP8DMKYLPQK)
-<!-- - Dicoding [Belajar Dasar Git dengan GitHub](https://www.dicoding.com/certificates/2VX327JK4PYQ) -->
+  - [Belajar Dasar Git dengan GitHub](https://www.dicoding.com/certificates/GRX5KR4M3Z0M)
 - VSGA and BPPTIK
   - Junior Mobile Programmer (2021)
   - Junior Web Developer (2021)
