@@ -4,8 +4,8 @@
 <h3 align="center">I'm Wahyu Rahayu, a 2019 Computer Science.</h3>
 
 ## 🚀 About Me
-- 🔭 I’m currently studying at [Singaperbangsa Karawang University](https://unsika.ac.id/)
-- 🌱 I’m currently learning about **Android Mobile Programming** at [Bangkit Academy led by Google, GoTo, & Traveloka](https://grow.google/intl/id_id/bangkit/)
+- 🔭 I’m currently studying at [Singaperbangsa Karawang University](https://unsika.ac.id/).
+- 🌱 I’m currently learning about **Android Mobile Programming** at [Bangkit Academy led by Google, GoTo, & Traveloka](https://grow.google/intl/id_id/bangkit/).
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/wahyu-r-3560aa125), [Instagram](https://www.instagram.com/wahyu.rhy/).
 
 ## 📊 Stats
