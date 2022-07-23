@@ -18,7 +18,12 @@
 
 ## 📄 Certifications
 - Dicoding
+  - [Belajar Pengembangan Aplikasi Android Intermediate](https://www.dicoding.com/certificates/6RPNDKNOQZ2M)
+  - [Belajar Fundamental Aplikasi Android](https://www.dicoding.com/certificates/6RPN8M789Z2M)
   - [Memulai Pemrograman Dengan Kotlin](https://www.dicoding.com/certificates/1RXYYO2V9XVM)
+  - [Meniti Karier sebagai Software Developer](https://www.dicoding.com/certificates/L4PQ45JLQXO1)
+  - [Belajar Dasar UX Design](https://www.dicoding.com/certificates/MRZMDGJ00ZYQ)
+  - [Belajar Prinsip Pemrograman SOLID](https://www.dicoding.com/certificates/JLX13NG4JP72)
   - [Cloud Practitioner Essentials (Belajar Dasar AWS Cloud)](https://www.dicoding.com/certificates/2VX3NLVO3XYQ)
   - [DevOps Praktis dengan IBM Cloud (Practical DevOps with IBM Cloud)](https://www.dicoding.com/certificates/1OP8DMKYLPQK)
   - [Belajar Dasar Git dengan GitHub](https://www.dicoding.com/certificates/GRX5KR4M3Z0M)
