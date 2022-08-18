@@ -5,7 +5,7 @@
 
 ## 🚀 About Me
 - 🔭 I’m currently studying at [Singaperbangsa Karawang University](https://unsika.ac.id/).
-- 🌱 I’m currently learning about **Android Mobile Programming** at [Bangkit Academy led by Google, GoTo, & Traveloka](https://grow.google/intl/id_id/bangkit/).
+- 🌱 I’m Bangkit 2022 Alumni **Android Mobile Programming** at [Bangkit Academy led by Google, GoTo, & Traveloka](https://grow.google/intl/id_id/bangkit/).
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/wahyu-r-3560aa125), [Instagram](https://www.instagram.com/wahyu.rhy/).
 
 ## 📊 Stats
@@ -17,6 +17,8 @@
 </p>
 
 ## 📄 Certifications
+- Bangkit Academy 2022
+  - [Bangkit Certificate of Completion as Android Developer (Mobile Development)](https://drive.google.com/file/d/1Nx0HaUg2cjNSw-11dQtORlfLGIrcdw_a/view?usp=sharing)
 - Dicoding
   - [Belajar Pengembangan Aplikasi Android Intermediate](https://www.dicoding.com/certificates/6RPNDKNOQZ2M)
   - [Belajar Fundamental Aplikasi Android](https://www.dicoding.com/certificates/6RPN8M789Z2M)
