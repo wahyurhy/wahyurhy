@@ -26,6 +26,7 @@
   - [Belajar Membuat Aplikasi Android dengan Jetpack Compose](https://www.dicoding.com/certificates/1OP854R3QPQK) NEW!
   - [Belajar Fundamental Aplikasi Android](https://www.dicoding.com/certificates/6RPN8M789Z2M)
   - [Memulai Pemrograman Dengan Kotlin](https://www.dicoding.com/certificates/1RXYYO2V9XVM)
+  - [Belajar Dasar Pemrograman JavaScript](https://www.dicoding.com/certificates/1RXYOQV11PVM)
   - [Meniti Karier sebagai Software Developer](https://www.dicoding.com/certificates/L4PQ45JLQXO1)
   - [Belajar Dasar UX Design](https://www.dicoding.com/certificates/MRZMDGJ00ZYQ)
   - [Belajar Prinsip Pemrograman SOLID](https://www.dicoding.com/certificates/JLX13NG4JP72)
