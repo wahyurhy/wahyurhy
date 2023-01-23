@@ -34,6 +34,7 @@
   - [Cloud Practitioner Essentials (Belajar Dasar AWS Cloud)](https://www.dicoding.com/certificates/2VX3NLVO3XYQ)
   - [DevOps Praktis dengan IBM Cloud (Practical DevOps with IBM Cloud)](https://www.dicoding.com/certificates/1OP8DMKYLPQK)
   - [Belajar Dasar Git dengan GitHub](https://www.dicoding.com/certificates/GRX5KR4M3Z0M)
+  - [Memulai Pemrograman Dengan Swift](https://www.dicoding.com/certificates/72ZD9KW0VPYW)
 - VSGA and BPPTIK
   - Junior Mobile Programmer (2021)
   - Junior Web Developer (2021)
