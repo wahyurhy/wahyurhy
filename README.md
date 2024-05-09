@@ -1,10 +1,10 @@
 <a href="#"><img width="100%" height="auto" src="https://linkedinheaders.com/wp-content/uploads/2018/02/journal-keyboard-header.jpg" height="175px"/></a>
 
 <h1 align="center">Hi Everyone!<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
-<h3 align="center">I'm Wahyu Rahayu, a 2019 Computer Science.</h3>
+<h3 align="center">I'm Wahyu Rahayu.</h3>
 
 ## 🚀 About Me
-- 🔭 I’m currently studying at [Singaperbangsa Karawang University](https://unsika.ac.id/).
+- 🔭 I was graduated from [Singaperbangsa Karawang University](https://unsika.ac.id/).
 - 🌱 I’m Bangkit 2022 Alumni **Android Mobile Programming** at [Bangkit Academy led by Google, GoTo, & Traveloka](https://grow.google/intl/id_id/bangkit/).
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/wahyu-r-3560aa125), [Instagram](https://www.instagram.com/wahyu.rhy/).
 
@@ -21,9 +21,9 @@
   - [Bangkit Certificate of Completion as Android Developer (Mobile Development)](https://drive.google.com/file/d/1Nx0HaUg2cjNSw-11dQtORlfLGIrcdw_a/view?usp=sharing)
   ![Bangkit Graduate Certificate-9](https://user-images.githubusercontent.com/55066990/196882357-10d24fbd-a0a1-48a9-a963-88aca73c9720.jpg)
 - Dicoding
-  - [Menjadi Android Developer Expert](https://www.dicoding.com/certificates/MRZM46WE3XYQ) NEW!
-  - [Belajar Pengembangan Aplikasi Android Intermediate](https://www.dicoding.com/certificates/6RPNDKNOQZ2M) NEW!
-  - [Belajar Membuat Aplikasi Android dengan Jetpack Compose](https://www.dicoding.com/certificates/1OP854R3QPQK) NEW!
+  - [Menjadi Android Developer Expert](https://www.dicoding.com/certificates/MRZM46WE3XYQ)
+  - [Belajar Pengembangan Aplikasi Android Intermediate](https://www.dicoding.com/certificates/6RPNDKNOQZ2M)
+  - [Belajar Membuat Aplikasi Android dengan Jetpack Compose](https://www.dicoding.com/certificates/1OP854R3QPQK)
   - [Belajar Fundamental Aplikasi Android](https://www.dicoding.com/certificates/6RPN8M789Z2M)
   - [Memulai Pemrograman Dengan Kotlin](https://www.dicoding.com/certificates/1RXYYO2V9XVM)
   - [Belajar Dasar Pemrograman JavaScript](https://www.dicoding.com/certificates/1RXYOQV11PVM)
